@@ -1,0 +1,26 @@
+StoreID,StoreName,City,State,RegionID,OpenedDate
+1,RetailMart Kadapa,Panchkula,Rajasthan,6,2018-10-05
+2,RetailMart Kurnool,Jamalpur,Chhattisgarh,1,2022-11-22
+3,RetailMart Bahraich,Bhilai,Andhra Pradesh,1,2020-05-11
+4,RetailMart Kozhikode,Suryapet,Andhra Pradesh,6,2019-09-12
+5,RetailMart Tiruchirappalli,Raipur,Manipur,3,2015-12-31
+6,RetailMart Panchkula,Danapur,Tamil Nadu,2,2017-04-29
+7,RetailMart Karawal Nagar,Latur,Manipur,2,2019-09-09
+8,RetailMart Yamunanagar,Khora ,Mizoram,2,2021-05-07
+9,RetailMart Coimbatore,Vijayanagaram,Karnataka,6,2022-12-12
+10,RetailMart Delhi,Bihar Sharif,Uttarakhand,1,2019-12-29
+11,RetailMart Jalgaon,Siwan,Meghalaya,6,2017-12-08
+12,RetailMart Suryapet,Sirsa,Karnataka,6,2022-05-25
+13,RetailMart Mathura,Muzaffarpur,West Bengal,5,2021-08-06
+14,RetailMart Varanasi,Bhalswa Jahangir Pur,Tamil Nadu,1,2022-10-08
+15,RetailMart Kharagpur,Shimla,Arunachal Pradesh,5,2016-01-28
+16,RetailMart Salem,Salem,Mizoram,4,2022-09-29
+17,RetailMart Kanpur,Alappuzha,West Bengal,1,2020-07-27
+18,RetailMart Aurangabad,Bilaspur,Karnataka,1,2020-04-20
+19,RetailMart Jodhpur,Deoghar,Madhya Pradesh,1,2017-09-10
+20,RetailMart Hosur,Tadipatri,Assam,2,2016-12-30
+21,RetailMart Ambattur,Raebareli,Bihar,2,2021-06-20
+22,RetailMart Raiganj,Dewas,Andhra Pradesh,5,2015-05-23
+23,RetailMart Pimpri-Chinchwad,Secunderabad,Kerala,5,2018-08-31
+24,RetailMart Sambalpur,Buxar,Sikkim,1,2021-09-28
+25,RetailMart Tirunelveli,Vijayawada,Punjab,5,2022-05-29

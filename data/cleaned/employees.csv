@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Email,JobTitle,HireDate,StoreID,ManagerID
+1,Amol,Patel,emp1@retailmart.com,Store Manager,2023-06-08,1,
+2,Oviya,Mohan,emp2@retailmart.com,Store Manager,2021-04-01,2,
+3,Lakshit,Pant,emp3@retailmart.com,Store Manager,2021-06-05,3,
+4,Reva,Gour,emp4@retailmart.com,Store Manager,2019-10-29,4,
+5,Aarush,Toor,emp5@retailmart.com,Store Manager,2020-10-14,5,
+6,Ekanta,Majumdar,emp6@retailmart.com,Store Manager,2023-07-02,6,
+7,Chaitaly,Kannan,emp7@retailmart.com,Store Manager,2024-03-30,7,
+8,Nisha,Mistry,emp8@retailmart.com,Store Manager,2020-05-21,8,
+9,Upkaar,Sood,emp9@retailmart.com,Store Manager,2020-08-07,9,
+10,Veda,Arora,emp10@retailmart.com,Store Manager,2023-11-24,10,
+11,Yashasvi,Som,emp11@retailmart.com,Store Manager,2024-04-28,11,
+12,Pushti,Zachariah,emp12@retailmart.com,Store Manager,2022-08-30,12,
+13,Samar,Varghese,emp13@retailmart.com,Store Manager,2024-06-12,13,
+14,Anamika,Chaudhari,emp14@retailmart.com,Store Manager,2021-08-25,14,
+15,Vedika,Dara,emp15@retailmart.com,Store Manager,2024-04-26,15,
+16,Jasmit,Sarma,emp16@retailmart.com,Store Manager,2023-12-22,16,
+17,Mekhala,Dhawan,emp17@retailmart.com,Store Manager,2022-10-10,17,
+18,Chasmum,Balan,emp18@retailmart.com,Store Manager,2021-05-21,18,
+19,Zaid,Kalita,emp19@retailmart.com,Store Manager,2020-11-11,19,
+20,Gaurang,Vohra,emp20@retailmart.com,Store Manager,2021-07-31,20,
+21,Lohit,Ravel,emp21@retailmart.com,Store Manager,2020-03-14,21,
+22,Upadhriti,Suri,emp22@retailmart.com,Store Manager,2022-10-06,22,
+23,Chatresh,Jha,emp23@retailmart.com,Store Manager,2024-01-18,23,
+24,Radhika,Shah,emp24@retailmart.com,Store Manager,2021-04-02,24,
+25,Omisha,Chawla,emp25@retailmart.com,Store Manager,2021-11-21,25,
+26,Tanmayi,Ghosh,emp26@retailmart.com,Sales Associate,2018-07-08,1,1
+27,Arjun,Ganesan,emp27@retailmart.com,Stock Clerk,2019-12-07,2,2
+28,Isaac,Keer,emp28@retailmart.com,Stock Clerk,2023-02-21,3,3
+29,Chakradev,Dyal,emp29@retailmart.com,Sales Associate,2018-06-04,4,4
+30,Anthony,Chand,emp30@retailmart.com,Stock Clerk,2020-05-14,5,5
+31,Diya,Balay,emp31@retailmart.com,Stock Clerk,2018-08-30,6,6
+32,Rachita,Deshmukh,emp32@retailmart.com,Stock Clerk,2020-05-27,7,7
+33,Chameli,Morar,emp33@retailmart.com,Sales Associate,2018-01-01,8,8
+34,Avi,Balay,emp34@retailmart.com,Sales Associate,2019-12-10,9,9
+35,Upadhriti,Datta,emp35@retailmart.com,Cashier,2019-02-08,10,10
+36,Chavvi,Shanker,emp36@retailmart.com,Cashier,2019-05-16,11,11
+37,Chasmum,Doctor,emp37@retailmart.com,Cashier,2020-07-31,12,12
+38,Udarsh,Bera,emp38@retailmart.com,Stock Clerk,2020-12-29,13,13
+39,Mugdha,Sahni,emp39@retailmart.com,Stock Clerk,2023-10-31,14,14
+40,Anmol,Nagar,emp40@retailmart.com,Sales Associate,2023-06-30,15,15
+41,David,Dhar,emp41@retailmart.com,Cashier,2019-09-19,16,16
+42,Dalbir,Balakrishnan,emp42@retailmart.com,Sales Associate,2021-05-22,17,17
+43,Udyati,Gera,emp43@retailmart.com,Sales Associate,2023-10-19,18,18
+44,Yadavi,Mangal,emp44@retailmart.com,Sales Associate,2021-05-05,19,19
+45,Sai,Narayanan,emp45@retailmart.com,Cashier,2020-11-11,20,20
+46,Harita,Raja,emp46@retailmart.com,Cashier,2020-02-26,21,21
+47,Orinder,Dhillon,emp47@retailmart.com,Sales Associate,2021-04-30,22,22
+48,Aarav,Walia,emp48@retailmart.com,Stock Clerk,2018-12-23,23,23
+49,Sara,Prabhakar,emp49@retailmart.com,Cashier,2023-02-11,24,24
+50,Triya,Aggarwal,emp50@retailmart.com,Sales Associate,2018-12-31,25,25
